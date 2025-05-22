@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @BlocSpore
-- 👀 I’m interested in learning
+- 👀 I’m interested in experiencing
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on video games project
-- 📫 How to reach me 
-- 😄 Pronouns: 
+- 💞️ I’m looking to collaborate on dev project
 - ⚡ Fun fact: I play guitar!
 
 <!---
